@@ -1,5 +1,7 @@
 # My Office Add-in
 
+![Screenshot](docs/screebsgit.png?raw=true "Screenshot")
+
 ## Running
 
 ```bash
