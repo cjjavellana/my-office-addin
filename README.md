@@ -1,6 +1,6 @@
 # My Office Add-in
 
-![Screenshot](docs/screebsgit.png?raw=true "Screenshot")
+![Screenshot](docs/screenshot.png?raw=true "Screenshot")
 
 ## Running
 
