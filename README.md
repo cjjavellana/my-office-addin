@@ -14,7 +14,7 @@ Certificate: /Users/user/.office-addin-dev-certs/localhost.crt
 Key: /Users/user/.office-addin-dev-certs/localhost.key
 ℹ ｢wds｣: Project is running at https://localhost:3000/
 ℹ ｢wds｣: webpack output is served from /
-ℹ ｢wds｣: Content not from webpack is served from /Users/user/Projects/GLML/My Office Add-in
+ℹ ｢wds｣: Content not from webpack is served from /Users/user/Projects/My Office Add-in
 ⚠ ｢wdm｣: Hash: c94ae67b46879649c8b3
 Version: webpack 4.46.0
 
