@@ -12,7 +12,9 @@ const template = require("./app.component.html");
 })
 export default class AppComponent {
   welcomeMessage = "Welcome";
-
+  contractNumber = "";
+  issueDate: Date = null;
+  
   async run() {
     return Word.run(async (context) => {
       /**
